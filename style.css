@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    position: center;
+    padding: 0;
+    background-color: deepskyblue;
+    width: 100%;
+}
+
+footer{
+    position: bottom;
+}
+
+.h1{
+    color: pink;
+}
